@@ -4,6 +4,8 @@ https://blockly.games/maze?lang=en&level=10&&skin=0#58wtq8
 https://github.com/araujoramosalexandre/ATP2025/blob/main/README.md
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/7220fcea-09b6-4271-83da-7539997cbad2" />
 [21.ipynb](https://github.com/user-attachments/files/22585861/21.ipynb)
+
+
 print("Vamos jogar um jogo. Há 21 fósforos. Cada um pode tirar entre 1 e 4 fósforos de cada vez")
 print("Quem tirar o último fósforo perde")
 print(21)
