@@ -4,4 +4,5 @@ https://github.com/araujoramosalexandre/ATP2025/blob/main/README.md
 <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/7220fcea-09b6-4271-83da-7539997cbad2" />
 TPC2 jogo dos 21 fósforos: [21.ipynb](https://github.com/user-attachments/files/22585861/21.ipynb)
 TPC3 manipular_lista [manipular_lista.ipynb](https://github.com/user-attachments/files/22755006/manipular_lista.ipynb)
+
 [tpc 4 - cinema.ipynb](https://github.com/user-attachments/files/22914199/tpc.4.-.cinema.ipynb)
