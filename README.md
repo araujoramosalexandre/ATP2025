@@ -7,4 +7,5 @@ TPC3 manipular_lista [manipular_lista.ipynb](https://github.com/user-attachments
 
 [tpc 4 - cinema.ipynb](https://github.com/user-attachments/files/22914199/tpc.4.-.cinema.ipynb)
 
-tpc5.py 
+[tpc5.py](https://github.com/user-attachments/files/23032725/tpc5.py)
+
